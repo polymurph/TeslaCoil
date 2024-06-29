@@ -1,10 +1,16 @@
 # TeslaCoil
 
-## Case calculation
+## Panckake Tesla coil case study
 
 ### Specifications
 
 
+
+## Capacitors
+
+### Toroidal Top Load
+
+[online calculator](https://deepfriedneon.com/tesla_f_calctoroid.html)
 
 ## Coils
 
@@ -16,7 +22,7 @@ A.k.a. Air Coil
 
 ### Flat Spiral Coil
 
-A.k.a Panckacke coil
+A.k.a Pancake coil
 
 [online calculator](https://www.deepfriedneon.com/tesla_f_calcspiral.html)
 
